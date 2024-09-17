@@ -1,6 +1,5 @@
-import Imie from './pages/index'
-export default function Home() {
-  return (
-  <Imie/>
-  );
+export default function Imie(){
+return(
+    <h1>Kamil Gmitrzuk</h1>
+)
 }
